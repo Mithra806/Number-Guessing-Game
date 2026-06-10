@@ -11,12 +11,6 @@ A simple browser-based game where you try to guess a randomly generated number b
 5. Your number of attempts will be tracked
 6. Click **Reset** to start a new game
 
-## Files
-
-- `index.html` — page structure
-- `style.css` — styling
-- `script.js` — game logic
-
 ## Built With
 
 - HTML
