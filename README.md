@@ -25,4 +25,4 @@ A simple browser-based game where you try to guess a randomly generated number b
 
 ## Live Demo
 
-You can play it here: https://mithra806.github.io/Number-Guessing-Game
+You can play it here: https://mithranumberguessinggame.netlify.app/
